@@ -18,8 +18,8 @@ A clean, responsive weather dashboard built with React and Vite that displays re
 ---
 
 ## 📸 Preview
+![Screenshot 2025-05-27 233901](https://github.com/user-attachments/assets/bd325dbd-a728-416d-9efd-5981b57c939a)
 
-![Uploading image.png…]()
 
 
 ---
