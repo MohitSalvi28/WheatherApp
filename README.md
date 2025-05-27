@@ -36,4 +36,9 @@ A clean, responsive weather dashboard built with React and Vite that displays re
 ---
 
 ## 📁 Project Structure
+src/
+├── App.jsx # Main application component
+├── App.css # Application styles
+├── main.jsx # Entry point
+└── assets/ # (Optional) icons/images
 
