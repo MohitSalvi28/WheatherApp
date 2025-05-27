@@ -19,7 +19,8 @@ A clean, responsive weather dashboard built with React and Vite that displays re
 
 ## 📸 Preview
 
-> *(Add screenshot or live link here if deployed)*
+![Uploading image.png…]()
+
 
 ---
 
